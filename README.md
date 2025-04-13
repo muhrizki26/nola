@@ -278,7 +278,7 @@
         
         gambar5 = "https://kamu.feeldream.repl.co/g5.gif";
         kata5 = "OH IYAA KAMU MAU UJIAN YAA...SEMANGAT YA CANTIK"; 
-        katanya = "SEMOGA NILAI KAMU BAGUS SEMUA DAN JUGA KAMU DILANCARIN YAA, Nantiii aku temanii yaa ?"; emotsenyum = "😃";
+        katanya = "SEMOGA NILAI KAMU BAGUS SEMUA DAN JUGA KAMU DILANCARIN YAA SAYANG OCIIWW, Nantiii aku temanii yaa cintakuuuuu ?"; emotsenyum = "😃💕💕💕❤️❤️😍😍😍";
         
         gambar6 = "https://i.ibb.co/JyKdNBp/yeay.gif";
         katakhir = "MISS YOU CINTAKU, aku harap kamu selalu ada dihatiku❤";
